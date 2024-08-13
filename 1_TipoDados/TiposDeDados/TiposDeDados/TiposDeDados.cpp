@@ -39,6 +39,7 @@ int main()
 	cout << "===========\n";
 	string texto = "Estrutura de Dados vai ser moleza!";
 	cout << "string texto = \"" << texto << "\" ocupa " << sizeof(texto) << " bytes\n";
+	cout << "Tomara que seja!\n";
 
 	cout << "\nPonteiros\n";
 	cout << "===========\n";
